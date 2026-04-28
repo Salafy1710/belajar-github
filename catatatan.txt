@@ -16,6 +16,7 @@ git log : untuk melihat seluruh riwayat commit
 git log --oneline : sama semerti git log namun lebih ringkas
 git show (code hasnya) : untuk melihat perubahan pada commit
 git diff (code hash 1) (code hash 2) : untuk membandingkan 2 commit secara spesifik
+git commit --amend : untuk reset soft commit sebelumnya 
 
 catatan : 
 - difftool 83
