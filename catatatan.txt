@@ -1,0 +1,13 @@
+note : 
+(.) titik = keseluruhan
+nama_file = spesifik file tersebut
+
+vocabulary :
+-f = force 
+diff = diffrence
+init = initialization
+
+git diff : membandingkan perubahan pada file 
+git clean -f : membersihkan perubahan pada area working directory
+git restore : mengembalikan perubahan pada area working directory
+git restore --staged : mengembalikan area yang sebelumnya staging index -> working directory
