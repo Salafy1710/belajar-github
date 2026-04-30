@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-file 1 - branch feature/a
-=======
-file 1 - branch feature/b
->>>>>>> feature/b
+file 1 - branch feature/c
+
