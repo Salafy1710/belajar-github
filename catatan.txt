@@ -23,7 +23,7 @@ git branch namabranch : untuk buat branch
 git switch : untuk pindah branch
 git checkout : untuk pindah commit, branch, tag
 git branch -d / --deletet : delete branch
-
+git stash : untuk melakukan perubahan pada branch, namun perubahan tersebut belum tersimpan di repository
 
 
 catatan : 
