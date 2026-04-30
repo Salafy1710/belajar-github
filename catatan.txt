@@ -17,6 +17,14 @@ git log --oneline : sama semerti git log namun lebih ringkas
 git show (code hasnya) : untuk melihat perubahan pada commit
 git diff (code hash 1) (code hash 2) : untuk membandingkan 2 commit secara spesifik
 git commit --amend : untuk reset soft commit sebelumnya 
+git branch / git branch --list : untuk melihat keseluruhan branch
+git branch --show-current : untuk melihat lokasi kita pada branch
+git branch namabranch : untuk buat branch
+git switch : untuk pindah branch
+git checkout : untuk pindah commit, branch, tag
+git branch -d / --deletet : delete branch
+
+
 
 catatan : 
 - difftool 83
