@@ -1,2 +1,4 @@
 file 2 - branch feature/rebase
 
+perubahan 2 - feature/squash
+
