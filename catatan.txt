@@ -27,6 +27,10 @@ git branch -d / --deletet : delete branch
 git stash : untuk melakukan perubahan pada branch, namun perubahan tersebut belum tersimpan di repository
 git alias : untuk memberikan alias pada perintah
 git blame : untuk mencari tahu siapa yang melakukan perubahan tersebut 
+git tag (namatag) commit id = untuk buat tag di repository local
+git push namaremote namatag = untuk push perubahan tag pada remote repository
+git fetch origin / git fetch origin namatag = untuk mengambil perubahan pada tag
+
 
 
 GIT RESET
