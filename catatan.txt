@@ -31,7 +31,10 @@ git tag (namatag) commit id = untuk buat tag di repository local
 git push namaremote namatag = untuk push perubahan tag pada remote repository
 git fetch origin / git fetch origin namatag = untuk mengambil perubahan pada tag
 
-
+MENGGABUNGKAN 2 BRANCH :
+- git merge : menggabungkan 2 branch, dengan 1 kommit baru pada main atau branch yang dituju, punya 2 orangtua
+- git rebase : menggabungkan 2 branch namun menduplikat semua commit dari sumber branch dan menyimpannya pada branch yang dituju
+- git merge --squash : menggabungkan 2 branch, dengan 1 kommit baru pada main atau branch yang dituju, punya 1 orangtua
 
 GIT RESET
 Perumpamaan : 

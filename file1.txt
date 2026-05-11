@@ -1,5 +1,0 @@
-file 1 - branch master menambahkan rebase
-
-perubahan 1 - feature/rebase
-
-belajar pull request menggunakan github
